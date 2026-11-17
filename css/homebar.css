@@ -1,4 +1,4 @@
-/* homebar.css — bar atas seragam (Home + nama fitur + tema) untuk halaman
+/* css/homebar.css — bar atas seragam (Home + nama fitur + tema) untuk halaman
    mandiri Budget & Feasibility. Tampilannya sama dengan bar di Input Report,
    Analytics, dan Database (css/feas.css), tapi memakai variabel warna halaman
    ini sendiri (--surface, --line, --ink, --blue). */
